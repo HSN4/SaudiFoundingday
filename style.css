@@ -78,7 +78,7 @@ header ul li a{
     flex-direction: column;
     justify-content: center;
     direction: rtl;
-    width: 600px;
+    width: 530px;
     animation: move 1s;
     position: relative;
 }
